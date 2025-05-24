@@ -1,5 +1,4 @@
-('C:\\Users\\pacsoda\\Desktop\\Nueva '
- 'carpeta\\build\\limpieza_windows\\PYZ-00.pyz',
+('E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\pacsoda\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),

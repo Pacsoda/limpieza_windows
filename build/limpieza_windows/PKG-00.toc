@@ -1,5 +1,4 @@
-('C:\\Users\\pacsoda\\Desktop\\Nueva '
- 'carpeta\\build\\limpieza_windows\\limpieza_windows.pkg',
+('E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\limpieza_windows.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -11,28 +10,22 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\PYZ-00.pyz',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\localpycs\\struct.pyc',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\localpycs\\pyimod01_archive.pyc',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\localpycs\\pyimod02_importers.pyc',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\localpycs\\pyimod03_ctypes.pyc',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\localpycs\\pyimod04_pywin32.pyc',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\pacsoda\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -41,7 +34,7 @@
    'C:\\Users\\pacsoda\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('limpieza_windows',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva carpeta\\limpieza_windows.py',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\limpieza_windows.py',
    'PYSOURCE'),
   ('python311.dll',
    'C:\\Users\\pacsoda\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
@@ -80,8 +73,7 @@
    'C:\\Users\\pacsoda\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\pacsoda\\Desktop\\Nueva '
-   'carpeta\\build\\limpieza_windows\\base_library.zip',
+   'E:\\pacsoda\\Documents\\limpieza_windows\\build\\limpieza_windows\\base_library.zip',
    'DATA')],
  'python311.dll',
  False,
